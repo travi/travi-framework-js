@@ -1,0 +1,12 @@
+{
+    "name": "travi-framework",
+    "dependencies": {
+        "jquery": "1.8.x",
+        "jquery-ui": "1.9.x",
+        "jquery-requestAnimationFrame": "0.1.x",
+        "travi-core": "latest",
+        "travi-slide-nav": "latest",
+        "travi-styles": "*",
+        "wymeditor": "http://github.com/travi/wymeditor.git"
+    }
+}
