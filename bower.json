@@ -7,6 +7,6 @@
         "travi-core": "latest",
         "travi-slide-nav": "latest",
         "travi-styles": "*",
-        "wymeditor": "http://github.com/travi/wymeditor.git"
+        "wymeditor": "*"
     }
 }
