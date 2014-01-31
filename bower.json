@@ -4,7 +4,7 @@
         "travi-core": "latest",
         "jquery-requestAnimationFrame": "0.1.x",
         "travi-slide-nav": "latest",
-        "travi-styles": "0.3.0",
+        "travi-styles": "0.3.1",
         "wymeditor": "*"
     }
 }
