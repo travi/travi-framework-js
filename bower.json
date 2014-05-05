@@ -5,6 +5,7 @@
         "jquery-requestAnimationFrame": "0.1.x",
         "travi-slide-nav": "latest",
         "travi-styles": "0.3.3",
-        "wymeditor": "latest"
+        "wymeditor": "latest",
+        "jquery-migrate": "1.2.1"
     }
 }
