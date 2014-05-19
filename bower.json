@@ -1,9 +1,9 @@
 {
     "name": "travi-framework",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "dependencies": {
-        "travi-styles": "0.4.0",
-        "travi-ui": "0.10.0",
+        "travi-styles": "0.4.1",
+        "travi-ui": "0.10.1",
         "travi-slide-nav": "latest",
         "jquery-requestAnimationFrame": "0.1.x"
     }
