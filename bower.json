@@ -1,6 +1,6 @@
 {
     "name": "travi-framework",
-    "version": "0.5.1",
+    "version": "0.6.0",
     "dependencies": {
         "travi-styles": "0.4.2",
         "travi-ui": "0.11.0",
