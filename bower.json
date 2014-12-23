@@ -3,7 +3,7 @@
     "version": "0.9.2",
     "dependencies": {
         "travi-styles": "0.6.0",
-        "travi-ui": "0.14.1",
+        "travi-ui": "0.14.2",
         "travi-slide-nav": "latest",
         "jquery-requestAnimationFrame": "0.1.x"
     }
